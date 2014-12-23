@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yandokevin.tugastebakgambar1"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RinganTanganActivity"
+            android:label="@string/title_activity_ringan_tangan" >
+        </activity>
+        <activity
+            android:name=".MotivasiKataActivity"
+            android:label="@string/title_activity_motivasi_kata" >
+        </activity>
+        <activity
+            android:name=".PolisiNakalActivity"
+            android:label="@string/title_activity_polisi_nakal" >
+        </activity>
+        <activity
+            android:name=".MalamKelabuActivity"
+            android:label="@string/title_activity_malam_kelabu" >
+        </activity>
+        <activity
+            android:name=".LarasPanasActivity"
+            android:label="@string/title_activity_laras_panas" >
+        </activity>
+        <activity
+            android:name=".DarahTinggiActivity"
+            android:label="@string/title_activity_darah_tinggi" >
+        </activity>
+        <activity
+            android:name=".BungaSakuraActivity"
+            android:label="@string/title_activity_bunga_sakura" >
+        </activity>
+        <activity
+            android:name=".BibikuMantriActivity"
+            android:label="@string/title_activity_bibiku_mantri" >
+        </activity>
+        <activity
+            android:name=".BandarTekorActivity"
+            android:label="@string/title_activity_bandar_tekor" >
+        </activity>
+        <activity
+            android:name=".SelesaiActivity"
+            android:label="@string/title_activity_selesai" >
+        </activity>
+        <activity
+            android:name=".LurusHatiActivity"
+            android:label="@string/title_activity_lurus_hati" >
+        </activity>
+    </application>
+
+</manifest>

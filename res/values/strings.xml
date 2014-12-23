@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tugas Tebak Gambar1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ringan_tangan">Tugas Tebak Gambar 1</string>
+    <string name="title_activity_motivasi_kata">Tugas Tebak Gambar 1</string>
+    <string name="title_activity_polisi_nakal">Tugas Tebak Gambar 1</string>
+    <string name="title_activity_malam_kelabu">Tugas Tebak Gambar 1</string>
+    <string name="title_activity_laras_panas">Tugas Tebak Gambar 1</string>
+    <string name="title_activity_darah_tinggi">Tugas Tebak Gambar 1</string>
+    <string name="title_activity_bunga_sakura">Tugas Tebak Gambar 1</string>
+    <string name="title_activity_bibiku_mantri">Tugas Tebak Gambar 1</string>
+    <string name="title_activity_bandar_tekor">Tugas Tebak Gambar 1</string>
+    <string name="title_activity_selesai">Tugas Tebak Gambar 1</string>
+    <string name="title_activity_lurus_hati">Tugas Tebak Gambar 1</string>
+
+</resources>
